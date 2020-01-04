@@ -1,6 +1,6 @@
 require "sinatra"
 
-datos = [1]
+datos = [0]
 
 def aumentar(a)
     valor = a[0]+1
